@@ -2,8 +2,6 @@
 
 ## Nhóm sinh viên thực hiện
 
-## 👨‍💻 Thành viên thực hiện
-
 | STT | Họ và tên | MSSV | Lớp | Công việc thực hiện |
 |:---:|---|:---:|:---:|---|
 | 1 | Huỳnh Chí Đạt | 110123086 | DA23TTB | - Quản lý sản phẩm và danh mục sản phẩm (thêm, sửa, xóa, xem).<br>- Quản lý nhập hàng và tồn kho.<br>- Xây dựng dashboard thống kê.<br>- Xây dựng giao diện trang chủ.<br>- Xây dựng giao diện thông tin khách hàng (thông tin cơ bản, lịch sử mua hàng). |
