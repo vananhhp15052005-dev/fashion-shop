@@ -6,7 +6,7 @@
 |:---:|---|:---:|:---:|---|
 | 1 | Huỳnh Chí Đạt | 110123086 | DA23TTB | - Quản lý sản phẩm và danh mục sản phẩm (thêm, sửa, xóa, xem).<br>- Quản lý nhập hàng và tồn kho.<br>- Xây dựng dashboard thống kê.<br>- Xây dựng giao diện trang chủ.<br>- Xây dựng giao diện thông tin khách hàng (thông tin cơ bản, lịch sử mua hàng). |
 | 2 | Huỳnh Phan Vân Anh | 110123065 | DA23TTB | - Phân tích và thiết kế cơ sở dữ liệu.<br>- Xây dựng mô hình thực thể kết hợp (ERD).<br>- Xây dựng chức năng đăng nhập, đăng ký và đăng xuất.<br>- Quản lý tài khoản và phân quyền người dùng.<br>- Xây dựng giao diện đăng ký, đăng nhập.<br>- Xây dựng giao diện sản phẩm theo danh mục và tìm kiếm sản phẩm. |
-| 3 | Châu Tuyết Trân | 110123189 | DA23TTC | - Xây dựng chức năng giỏ hàng.<br>- Xây dựng chức năng đặt hàng.<br>- Quản lý và theo dõi đơn hàng.<br>- Xây dựng chức năng thanh toán.<br>- Xây dựng giao diện giỏ hàng và trang đặt hàng. |
+| 3 | Châu Tuyết Trân | 110122189 | DA23TTC | - Xây dựng chức năng giỏ hàng.<br>- Xây dựng chức năng đặt hàng.<br>- Quản lý và theo dõi đơn hàng.<br>- Xây dựng chức năng thanh toán.<br>- Xây dựng giao diện giỏ hàng và trang đặt hàng. |
 
 ## Công nghệ sử dụng
 
